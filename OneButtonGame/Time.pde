@@ -9,7 +9,4 @@ class Time {
   void countUp() {
     currentTime = currentTime + 1/frameRate;
   }
-  void countDown() {
-    currentTime = currentTime - 1/frameRate;
-  }
 }
